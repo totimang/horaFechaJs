@@ -17,6 +17,6 @@ const interval = setInterval(() => {
         year = local.getFullYear(); //para ver el año.
 
     time.innerHTML = local.toLocaleTimeString();                                //mostrando la hora en la pantalla.
-    date.innerHTML = `${dayNames[week]} ${day} ${monthNames[month]} ${year}`;   //mostrando la fecha en la pantalla.
+    date.innerHTML = `${dayNames[week]} ${day} de ${monthNames[month]} de ${year}`;   //mostrando la fecha en la pantalla.
 
 }, 1000);
