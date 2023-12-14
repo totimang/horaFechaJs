@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62,5%;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    font-family: 'Comic Neue', cursive;
+}
+
+.container-clock {
+    text-align: center;
+}
+
+.container-clock h1 {
+    font-size: 10rem;
+    font-weight: 400;
+    color: #1a1c61;
+}
+
+.container-clock p {
+    font-size: 2.5rem;
+    color: #a8eb12;
+}
