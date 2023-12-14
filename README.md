@@ -1,7 +1,7 @@
 # horaFechaJs
 Se mostrara la hora en la parte superior y la fecha en la parte inferior
 
-## Así se vería la calculadora
+## Así se vería la hora y la fecha
 <figure>
     <img src="https://i.ibb.co/mtyscD0/3.png" alt="Hora y fecha final">
 </figure>
